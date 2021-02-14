@@ -6,4 +6,4 @@ def print_this(x):
     return x
 
 def test_print_this():
-    assert print_this('Semaphore') == 'semaphore'
+    assert print_this('Semaphore') == 'Semaphore'
